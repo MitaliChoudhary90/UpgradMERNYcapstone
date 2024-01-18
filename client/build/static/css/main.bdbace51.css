@@ -1,0 +1,2 @@
+.header{align-items:center;display:flex;justify-content:center}.header>a{height:2vmax;margin:1vmax 4vmax;width:2vmax}.header>a>svg{color:rgba(0,0,0,.445);font-size:2vmax;transition:all .5s}.header>a>svg:hover{color:#000;transform:scale(1.2)}@media screen and (max-width:600px){.header>a{height:8vw;margin:2vw 8vw;width:8vw}.header>a>svg{font-size:8vw}}
+/*# sourceMappingURL=main.bdbace51.css.map*/
