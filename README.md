@@ -1,4 +1,4 @@
-                                                                               MERNY Social
+MERNY Social
 
 Project Overview-  MERNY Social is a Social Media Project built using MERN (MongoDB, Express.js, React, Node.js) stack. Along with it Cloudinary platform has been used for storage of pictures.
 
